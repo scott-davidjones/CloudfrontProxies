@@ -5,7 +5,7 @@ use GuzzleHttp\Client as Guzzle;
 use Illuminate\Routing\UrlGenerator;
 use Psr\Http\Message\ResponseInterface;
 use Orchestra\Testbench\TestCase as BaseTestCase;
-use jdavidbakr\CloudfrontProxies\CloudfrontProxies;
+use autumndev\CloudfrontProxies\CloudfrontProxies;
 
 class CloudfrontProxiesTest extends BaseTestCase
 {
