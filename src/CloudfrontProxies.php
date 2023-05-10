@@ -1,6 +1,6 @@
 <?php
 
-namespace jdavidbakr\CloudfrontProxies;
+namespace autumndev\CloudfrontProxies;
 
 use Closure;
 use Cache;
